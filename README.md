@@ -1,5 +1,4 @@
 # marketplace-parser
-Вот цельный текст в формате Markdown с инструкцией по запуску парсера:
 
 # Парсер товаров
 
@@ -68,4 +67,3 @@
 ## Примечание
 
 - Убедитесь, что у вас установлен [geckodriver](https://github.com/mozilla/geckodriver/releases) и он доступен в PATH для работы с Firefox.
-```
