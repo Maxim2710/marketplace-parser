@@ -33,7 +33,7 @@ def parse(p: int = 1, base_url: str = ''):
     # Настройки для использования Firefox
     firefox_options = Options()
 
-    # firefox_options.add_argument("--headless")  # Можно раскомментировать для фона (без интерфейса)
+    firefox_options.add_argument("--headless")  # Можно раскомментировать для фона (без интерфейса)
 
     # Обработка пользовательского агента
     try:
